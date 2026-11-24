@@ -1,0 +1,22 @@
+export const songs = [
+    {id: 1, song: "Champagne Poetry"},
+    {id: 2, song: "Girls Want Girls (with Lil baby)"},
+    {id: 3, song: "In The Bible (with Lil Durk & GIVEON)"},
+    {id: 4, song: "Love All (with JAY-Z)"},
+    {id: 5, song: "Fair Trade (with Travis Scott)"},
+    {id: 6, song: "Way 2 Sexy (with Future & Young Thug)"},
+    {id: 7, song: "TSU"},
+    {id: 8, song: "N 2 Deep (with Future)"},
+    {id: 9, song: "Pipe Down"},
+    {id: 10, song: "Yebba's Heartbreak (with Yebba)"},
+    {id: 11, song: "No Friends In The Industry"},
+    {id: 12, song: "Knife Talk (with 21 Savage feat. Project Pat)"},
+    {id: 13, song: "7am On Bridle Path"},
+    {id: 14, song: "Race My Mind"},
+    {id: 15, song: "Fountains (with Tems)"},
+    {id: 16, song: "Get Along Better (with Ty Dolls $ign)"},
+    {id: 17, song: "You Only Live Twice (with Lil Wayne & Rick Ross)"},
+    {id: 18, song: "IMY2 (with Kid Cudi)"},
+    {id: 19, song: "Fucking Fans"},
+    {id: 20, song: "The Remorse"}
+];
